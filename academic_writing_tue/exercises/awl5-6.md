@@ -1,4 +1,4 @@
-The _allocation_ of funds for the new development has been approved, and
+The __allocation__ of funds for the new development has been approved, and
 construction is due to commence next month.
 
 The industry has seen only _marginal_ growth over the last twelve months, 
