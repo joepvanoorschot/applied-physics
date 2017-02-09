@@ -8,4 +8,6 @@ First practicum:
 
 ![Heat conduction with source term](conduction01.png)
 Format: ![Alt Text](url)
+![Heat conduction no source term](conduction01-no-source.png)
+Format: ![Alt Text](url)
 
