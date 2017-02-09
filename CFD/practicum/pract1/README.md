@@ -6,6 +6,6 @@ First practicum:
 
 
 
-![Heat conduction with source term](/conduction01.png)
+![Heat conduction with source term](conduction01.png)
 Format: ![Alt Text](url)
 
