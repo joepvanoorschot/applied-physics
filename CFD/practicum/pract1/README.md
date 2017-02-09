@@ -1,7 +1,21 @@
-### First practicum:
+## First practicum:
+  
+### Finite Volume Method for heat transfer
+General form of conservation equations
+
+![Heat conduction with source term](pic3.jpg)
+
 
 1. heat conduction in a 1-D rod
+![Heat conduction with source term](pic2.jpg)
+
+
 2. heat conduction in the rod with a source term
+![Heat conduction with source term](pic1.jpg)
+
+![Heat conduction with source term](conduction01.png)
+
+
 
 
 #### Source term numerical solution
