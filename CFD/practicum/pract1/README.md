@@ -13,17 +13,13 @@ General form of conservation equations
 2. heat conduction in the rod with a source term
 ![Heat conduction with source term](pic1.jpg)
 
-![Heat conduction with source term](conduction01.png)
 
-
-
-
-#### Source term numerical solution
+#### No source term numerical solution and analytical solution
 
 ![Heat conduction with source term](conduction01.png)
 Format: ![Alt Text](url)
 
-#### No source term numerical solution
+#### Source term numerical solution
 ![Heat conduction no source term](conduction01-no-source.png)
 
 Format: ![Alt Text](url)
