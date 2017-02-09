@@ -129,7 +129,7 @@ void output(void)
 	FILE *fp;
 
 	if (iter == OUTER_ITER + 1) {
-		fp = fopen("output.dat", "w");
+		fp = fopen("output-no-source.dat", "w");
 
 		for (I = 0; I <= NPI + 1; I++)
 			fprintf(fp, "%11.4e\t%11.4e\n", x[I], T[I]);

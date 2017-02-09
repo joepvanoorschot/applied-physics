@@ -103,7 +103,7 @@ void bound(void)
 {
 /***** Purpose: Specify boundary conditions for a calculation ******/
 
-      T[Istart-1] = 300.;
+      T[Istart-1] = 100.;
       T[Iend  +1] = 500.;
 
 } /* bound */

@@ -10,6 +10,7 @@
 Format: ![Alt Text](url)
 
 #### No source term numerical solution
-![Heat conduction no source term](conduction01NoSource.png)
+![Heat conduction no source term](conduction01-no-source.png)
+
 Format: ![Alt Text](url)
 
